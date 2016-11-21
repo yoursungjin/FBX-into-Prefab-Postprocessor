@@ -1,7 +1,12 @@
-# FBXIntoPrefabPostprocessor
-UnityEditor script that creates a prefab automatically from a FBX file imported.
+# FBX-into-prefab postprocessor
+Unity asset postprocessor script that automatically turns .fbx files into prefabs while importing them.
 
-##Author
+## Background
+
+
+## 
+
+## Author
 Sungjin Lee<br> 
 yoursungjin@gmail.com<br> 
 sungjinlee0417@gmail.com
