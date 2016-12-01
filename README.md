@@ -16,9 +16,6 @@ automatically being converted into what you want them to be.<br>
 ## How to use
 Place the script in an 'Editor' folder.
 
-## 
-
-
 ## Author
 Sungjin Lee<br> 
 yoursungjin@gmail.com<br> 
