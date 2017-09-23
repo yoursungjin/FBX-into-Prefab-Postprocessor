@@ -18,5 +18,4 @@ Place the script in an 'Editor' folder.
 
 ## Author
 Sungjin Lee<br> 
-yoursungjin@gmail.com<br> 
 sungjinlee0417@gmail.com
